@@ -1,0 +1,84 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770881656/banner_balxuu.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "IPhone"
+    },
+    {
+      "id": 1,
+      "title": "Samsung"
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi"
+    },
+    {
+      "id": 3,
+      "title": "Pixle"
+    },
+    {
+      "id": 4,
+      "title": "Motorolla"
+    }
+  ],
+  "Popular": [
+    {
+      "description": "Experience the future of mobile with the Samsung Galaxy S20. Featuring a stunning 120Hz Infinity-O display for smooth scrolling and a powerful camera system with Space Zoom. Capture life in high resolution and enjoy all-day battery life in a sleek, modern design that fits perfectly in your hand.",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880840/3_1_udkx59.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880827/3_2_u93gi3.png"
+      ],
+      "thumbnail": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880840/3_1_udkx59.png",
+      "price": 442.95,
+      "rating": 4.6,
+      "title": "Samsung Galaxy S20"
+    },
+    {
+      "description": "The Samsung Galaxy S22 redefines the smartphone experience with its pro-grade camera featuring Nightography for stunning low-light photos. Powered by a lightning-fast processor and wrapped in a durable, stylish frame, it offers premium performance. Stay connected longer with an intelligent battery that adapts to your usage.",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880823/2_1_pqfwct.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880829/2_2_svnpph.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880849/2_3_y3h2gm.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880711/2_4_gvjre8.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880918/2_5_f9xlwy.png"
+      ],
+      "thumbnail": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880823/2_1_pqfwct.png",
+      "price": 231.95,
+      "rating": 4.6,
+      "title": "SAMSUNG Galaxy S22"
+    },
+    {
+      "description": "Unleash the power of Galaxy AI with the S24+, designed to make your everyday effortless. Enjoy a larger, brighter display perfect for streaming and gaming, paired with a massive battery. The armor aluminum frame ensures durability, while the enhanced camera system captures every detail with precision.",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880713/1_1_xodil9.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880910/1_2_brd6g5.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880796/1_3_z1r6c9.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880808/1_4_o8yhoe.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880805/1_5_ygliqg.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880810/1_6_wmvd6k.png"
+      ],
+      "thumbnail": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880713/1_1_xodil9.png",
+      "price": 897.95,
+      "rating": 4.5,
+      "title": "Samsung Galaxy S24+"
+    },
+    {
+      "description": "Step into the next generation with the Galaxy S25+, featuring our most advanced processor yet for seamless multitasking. The revolutionary camera system delivers unparalleled clarity, even in total darkness. With a refined, ultra-slim design and next-level battery efficiency, this device sets a new standard for excellence.",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880844/4_1_r7ko7l.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880792/4_2_oq3p5w.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880816/4_3_bz1dtb.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880805/4_4_kn9h4p.png"
+      ],
+      "thumbnail": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1770880844/4_1_r7ko7l.png",
+      "price": 399.00,
+      "rating": 4.7,
+      "title": "SAMSUNG Galaxy S25+"
+    }
+  ]
+}
